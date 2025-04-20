@@ -58,3 +58,9 @@ Handle **console input failures** (using `cin`) and build a **Math Menu Program*
 ---
 
 > 🚀 **Let’s work together to build your Math Menu Program, handle input failures effectively, and ensure smooth execution for a seamless user experience!**
+
+<p align="center">
+  <a href="https://wa.me/254794689731" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/whatsapp--v1.png" alt="Chat with Me on WhatsApp"/>
+  </a>
+</p>
